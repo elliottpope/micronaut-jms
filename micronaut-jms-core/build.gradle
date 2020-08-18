@@ -15,7 +15,7 @@ dependencies {
     compile "io.micronaut:micronaut-inject"
     compile "io.micronaut:micronaut-messaging"
     implementation "javax.jms:javax.jms-api:2.0.1"
-    implementation "io.micrometer:micrometer-core:1.5.2"
+    implementation "io.micrometer:micrometer-core:1.5.4"
     compile 'javax.validation:validation-api:2.0.1.Final'
     compile 'com.fasterxml.jackson.core:jackson-databind:2.11.1'
 
