@@ -29,7 +29,7 @@ dependencies {
     testCompile "io.micronaut.test:micronaut-test-spock:1.2.0"
     testCompile "org.mockito:mockito-junit-jupiter:3.3.3"
     testRuntime "org.junit.jupiter:junit-jupiter-engine:5.6.2"
-    testImplementation "org.apache.activemq.tooling:activemq-junit:5.15.13"
+    testImplementation "org.apache.activemq.tooling:activemq-junit:5.16.0"
 }
 
 test {
