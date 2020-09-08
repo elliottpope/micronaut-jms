@@ -12,7 +12,7 @@ dependencies {
     api "io.micronaut:micronaut-messaging"
     implementation "javax.jms:javax.jms-api:2.0.1"
     implementation 'javax.validation:validation-api:2.0.1.Final'
-    implementation 'com.fasterxml.jackson.core:jackson-databind:2.11.1'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.11.2'
 }
 
 test {
