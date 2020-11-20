@@ -3,7 +3,7 @@ plugins {
 }
 
 dependencies {
-    implementation platform('io.micronaut:micronaut-bom:2.0.0')
+    implementation platform('io.micronaut:micronaut-bom:2.2.0')
 
     annotationProcessor "io.micronaut:micronaut-inject-java"
     // needed because otherwise IntelliJ integration broken
